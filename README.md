@@ -1,29 +1,70 @@
-# InspireMe-
-InspireMe - Your Daily Dose of Wisdom
+# Getting Started with Create React App
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Discover daily inspiration with 'InspireMe,' your go-to React advice application. Are you in need of a little guidance, motivation, or a fresh perspective? Look no further! With 'InspireMe,' you can access a treasure trove of random advice and wisdom fetched from a variety of sources on the web.
+## Available Scripts
 
-Key Features:
+In the project directory, you can run:
 
-Randomized Advice: 'InspireMe' brings you a diverse collection of advice, quotes, and wisdom from different domains, ensuring every visit offers a unique and thought-provoking experience.
+### `npm start`
 
-Easy-to-Use Interface: Our intuitive and user-friendly React-based interface makes navigating through advice effortless. Whether you're a tech-savvy guru or new to web applications, 'InspireMe' is designed for everyone.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Share Your Favorites: Found a piece of advice that resonates with you? Easily share it with your friends and family on social media, spreading positivity and motivation.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Save for Later: Don't want to forget that special piece of advice? Save it for later in your personal collection and revisit it whenever you need a boost.
+### `npm test`
 
-Daily Inspiration: Set 'InspireMe' as your daily source of motivation. Receive a fresh piece of advice every day to kickstart your morning with positivity.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Responsive Design: 'InspireMe' is optimized for various devices, ensuring a seamless experience on desktops, tablets, and smartphones.
+### `npm run build`
 
-No Registration Required: Dive into a world of wisdom without any cumbersome sign-up process. 'InspireMe' respects your privacy.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Whether you're seeking guidance for personal growth, motivation for work, or simply a daily dose of wisdom, 'InspireMe' has you covered. Start your day right, boost your spirits, and share the love with 'InspireMe' - the React advice application that's here to inspire you every day.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Get inspired today with 'InspireMe'! Your journey to a more enlightened and motivated you begins now."
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run eject`
 
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
